@@ -1,5 +1,5 @@
 # bedrock-unicode-characters
-Minecraft:Bedrock Edition Unicode characters
+Minecraft: Bedrock Edition Unicode characters
 
 ## How to use
 Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
@@ -70,9 +70,11 @@ Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, s
 |        Craftable Toggle On       |      All     |          |  U+E0A0 | \u{E0A0} | ![](./images/craftable-on.png)  |
 |       Craftable Toggle Off       |      All     |          |  U+E0A1 | \u{E0A1} | ![](./images/craftable-off.png)  |
 |             Food Icon            |      All     |          |  U+E100 | \u{E100} | ![](./images/food.png)  |
-|            Armor Icon            |      All     |          |  U+E101 | \u{E101} | ![](./images/armour.png)  |
-|             Minecoin             |      All     |          |  U+E102 | \u{E102} | ![](./images/minecoin.png)  |
+|            Armor Icon            |      All     |          |  U+E101 | \u{E101} | ![](./images/armor_full.png)  |
+|             Minecoin             |      All     |          |  U+E102 | \u{E102} | ![](./images/MCoin.png)  |
 |        Code Builder Button       |      All     |          |  U+E103 | \u{E103} | ![](./images/code-builder.png)  |
+|        Immersive Reader Button   |      All     |          |  U+E103 | \u{E103} | ![](./images/immersive_reader.png)  |
+|               Token               |      All     |          |  U+E103 | \u{E103} | ![](./images/token.png)  |
 |         Left Grab Button         |  Windows MR  |          |  U+E0C0 | \u{E0C0} | ![](./images/mr-lg.png)  |
 |         Right Grab Button        |  Windows MR  |          |  U+E0C1 | \u{E0C1} | ![](./images/mr-rg.png)  |
 |            Menu Button           |  Windows MR  |          |  U+E0C2 | \u{E0C2} | ![](./images/mr-menu.png)  |
