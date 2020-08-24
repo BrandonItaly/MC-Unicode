@@ -127,6 +127,6 @@ Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, s
 Custom unicode characters can be added to the game with a resource pack if it contains the 'glyph_E1' image file.
 Any code after 0xE106 is not used in game and can be used for custom icons.
 
-|  Name   | Character | Unicode | PHP 7.x  |            In game             |              Glyph              |
-|:-------:|:---------:|:-------:|:--------:|:------------------------------:|:-------------------------------:|
-| Example |          | U+E106  | \u{E106} | ![](./images/example_icon.png) | ![](./images/example_glyph.png) |
+|  Name   | Character | Unicode | PHP 7.x  |            In game             |
+|:-------:|:---------:|:-------:|:--------:|:------------------------------:|
+| Example |          | U+E106  | \u{E106} | ![](./images/example_icon.png) |
