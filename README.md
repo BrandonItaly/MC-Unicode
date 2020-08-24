@@ -122,3 +122,11 @@ Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, s
 |       Right Trigger Button       |    Rift     |          | U+E0E8  | \u{E0E8} |         ![](./images/rift_right_trigger.png)          |
 |             X Button             |    Rift     |          | U+E0E9  | \u{E0E9} |               ![](./images/rift_X.png)                |
 |             Y Button             |    Rift     |          | U+E0EA  | \u{E0EA} |               ![](./images/rift_Y.png)                |
+
+## How to add custom unicode characters
+Custom unicode characters can be added to the game with a resource pack if it contains the 'glyph_E1' image file.
+Any code after 0xE106 is not used in game and can be used for custom icons.
+
+|  Name   | Character | Unicode | PHP 7.x  |            In game             |              Glyph              |
+|:-------:|:---------:|:-------:|:--------:|:------------------------------:|:-------------------------------:|
+| Example |          | U+E106  | \u{E106} | ![](./images/example_icon.png) | ![](./images/example_glyph.png) |
